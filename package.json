@@ -1,0 +1,15 @@
+{
+  "name": "keyx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jikanjs": "^0.7.0",
+    "xstate": "^4.13.0"
+  }
+}

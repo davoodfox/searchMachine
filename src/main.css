@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.state-box {
+  display: flex;
+  background-color: #f3f3f3;
+  border-radius: 3px;
+  padding: 1rem;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.search-box {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  height: 1rem;
+  align-items: flex-start;
+}
+
+.results {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #333;
+  border-radius: 4px;
+  padding: 1rem;
+  width: 200px;
+  align-items: stretch;
+}
